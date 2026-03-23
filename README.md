@@ -2,7 +2,6 @@
 
 Repositorio publico de portafolio para mostrar una version ordenada y documentada de un sistema administrativo web, sin publicar la base completa de codigo productivo.
 
-![Vista demostrativa del sistema](assets/showcase-demo.svg)
 
 Ilustracion de showcase basada en la version ordenada y documentada del proyecto.
 

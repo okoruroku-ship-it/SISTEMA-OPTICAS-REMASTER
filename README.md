@@ -2,6 +2,10 @@
 
 Repositorio publico de portafolio para mostrar una version ordenada y documentada de un sistema administrativo web, sin publicar la base completa de codigo productivo.
 
+![Vista demostrativa del sistema](assets/showcase-demo.svg)
+
+Ilustracion de showcase basada en la version ordenada y documentada del proyecto.
+
 ## Resumen
 
 Proyecto Java web orientado a operacion de opticas, reorganizado para conservar funcionalidad legacy mientras se reduce ruido de repositorio y se documentan puntos criticos para futuras fases de saneamiento.

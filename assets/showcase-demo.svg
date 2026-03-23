@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sistema Opticas Showcase</title>
+  <desc id="desc">Ilustracion demostrativa de un sistema web de opticas ordenado y documentado para refactor seguro.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1335" cy="145" r="175" fill="#cffafe" opacity="0.13"/>
+  <text x="110" y="120" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Sistema Opticas</text>
+  <text x="110" y="165" fill="#d7f6ff" font-family="Segoe UI, Arial, sans-serif" font-size="24">Version ordenada, documentada y preparada para saneamiento por fases</text>
+  <rect x="95" y="210" width="1410" height="610" rx="36" fill="#f7feff" opacity="0.98"/>
+  <rect x="125" y="245" width="390" height="240" rx="30" fill="#082f49"/>
+  <text x="160" y="300" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Paquete ordenado</text>
+  <text x="160" y="345" fill="#cfefff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Fuente limpia, frontend operativo y dependencias JAR</text>
+  <rect x="160" y="380" width="125" height="18" rx="9" fill="#67e8f9"/>
+  <rect x="160" y="414" width="170" height="18" rx="9" fill="#67e8f9"/>
+  <rect x="160" y="448" width="210" height="18" rx="9" fill="#67e8f9"/>
+  <rect x="550" y="245" width="430" height="240" rx="30" fill="#ecfeff"/>
+  <text x="585" y="300" fill="#0f766e" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Docs tecnicos</text>
+  <text x="585" y="346" fill="#155e75" font-family="Segoe UI, Arial, sans-serif" font-size="23">Catalogo de funciones</text>
+  <text x="585" y="382" fill="#155e75" font-family="Segoe UI, Arial, sans-serif" font-size="23">Endpoints detectados</text>
+  <text x="585" y="418" fill="#155e75" font-family="Segoe UI, Arial, sans-serif" font-size="23">Estudio del sistema</text>
+  <text x="585" y="454" fill="#155e75" font-family="Segoe UI, Arial, sans-serif" font-size="23">Manifiesto del paquete ordenado</text>
+  <rect x="1015" y="245" width="455" height="240" rx="30" fill="#eef2ff"/>
+  <text x="1048" y="300" fill="#3730a3" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Refactor seguro</text>
+  <text x="1048" y="345" fill="#4f46e5" font-family="Segoe UI, Arial, sans-serif" font-size="22">1. Congelar contratos</text>
+  <text x="1048" y="381" fill="#4f46e5" font-family="Segoe UI, Arial, sans-serif" font-size="22">2. Separar servicios y DAO</text>
+  <text x="1048" y="417" fill="#4f46e5" font-family="Segoe UI, Arial, sans-serif" font-size="22">3. Migrar una funcion a la vez</text>
+  <text x="1048" y="453" fill="#4f46e5" font-family="Segoe UI, Arial, sans-serif" font-size="22">4. Validar regresion antes de relevar</text>
+  <rect x="125" y="520" width="875" height="250" rx="30" fill="#ffffff"/>
+  <text x="160" y="568" fill="#12314c" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Dominios funcionales</text>
+  <rect x="160" y="600" width="175" height="110" rx="22" fill="#dbeafe"/>
+  <text x="190" y="655" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Ventas</text>
+  <rect x="355" y="600" width="175" height="110" rx="22" fill="#dcfce7"/>
+  <text x="378" y="655" fill="#15803d" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Inventario</text>
+  <rect x="550" y="600" width="175" height="110" rx="22" fill="#fee2e2"/>
+  <text x="572" y="655" fill="#dc2626" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Laboratorio</text>
+  <rect x="745" y="600" width="220" height="110" rx="22" fill="#fef3c7"/>
+  <text x="773" y="655" fill="#d97706" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Clinico y reportes</text>
+  <rect x="1030" y="520" width="440" height="250" rx="30" fill="#082f49"/>
+  <text x="1065" y="568" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Valor del showcase</text>
+  <text x="1065" y="620" fill="#cfefff" font-family="Segoe UI, Arial, sans-serif" font-size="23">Legacy funcional con paquete ordenado</text>
+  <text x="1065" y="658" fill="#cfefff" font-family="Segoe UI, Arial, sans-serif" font-size="23">Reduccion de ruido y dependencias no utiles</text>
+  <text x="1065" y="696" fill="#cfefff" font-family="Segoe UI, Arial, sans-serif" font-size="23">Base para hardening y migracion incremental</text>
+</svg>
